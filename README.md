@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm a software developer. Currently I'm a little bit busy with my fulltime job and studying at masters degree. But I'm also spending some time for contributions here.
+
+![Vladyislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
+
+
+Contact me on [telegram](https://t.me/kusyka911).
+
+![View counter](https://api.ghprofile.me/view?username=kusyka911)
+<!-- TODO: add other contact info -->
+
 
 <!--
 **kusyka911/kusyka911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
