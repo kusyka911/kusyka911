@@ -1,11 +1,4 @@
-<p>
-<a href="https://twitter.com/kusyka911"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<!-- 
-<a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-<a href="https://dev.to/USER"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-<a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
--->
-</p>
+![telegram: kusyka911](https://img.shields.io/endpoint?url=https%3A%2F%2Ft.me%2Fkusyka911&logo=telegram)
 
 ### Hi there 👋
 I'm a full-stack developer using JavaScript as my primary programming language. I have experience developing front-end and back-end applications. Also have experience developing commnunication application with e2e encryption. Prefer remote work.
