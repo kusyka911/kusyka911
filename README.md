@@ -1,12 +1,12 @@
 ### Hi there 👋
 I'm a full-stack developer using JavaScript as my primary programming language. I have experience developing front-end and back-end applications. Also have experience developing commnunication application with e2e encryption. Prefer remote work.
 
-![Vladyislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
+![Vladyislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true#1)
 
 
 Contact me on [telegram](https://t.me/kusyka911).
 
-![View counter](https://api.ghprofile.me/view?username=kusyka911)
+![View counter](https://api.ghprofile.me/view?username=kusyka911#1)
 <!-- TODO: add other contact info -->
 
 
