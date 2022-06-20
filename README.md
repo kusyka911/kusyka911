@@ -1,5 +1,3 @@
-![telegram: kusyka911](https://img.shields.io/endpoint?url=https%3A%2F%2Ft.me%2Fkusyka911&logo=telegram)
-
 ### Hi there 👋
 I'm a full-stack developer using JavaScript as my primary programming language. I have experience developing front-end and back-end applications. Also have experience developing commnunication application with e2e encryption. Prefer remote work.
 
