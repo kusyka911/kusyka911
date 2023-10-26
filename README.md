@@ -22,12 +22,11 @@
 - 🤝 Collaborative team player, ready to bring your projects to life.
 
 ## 🔗 Let's Connect:
-- 📫 Reach me at [matrix](https://matrix.to/#/#kusyka911:matrix.org), [telegram](https://t.me/kusyka911)
+- 📫 Reach me at [matrix](https://matrix.to/#/#kusyka911:matrix.org)
 - 🌐 Explore my projects and contributions on [GitHub].
 
-> 🌈 Join me on this coding journey, and let's build amazing digital experiences together!
+### 🌈 Join me on this coding journey, and let's build amazing digital experiences together!
 
-#FrontEndDeveloper #FullStackDeveloper #DevOps #Linux #NodeJS #Golang #MobileDevelopment #SoftwareSecurity #CyberSecurity #WebDevelopment #ServiceOrientedArchitecture #ProblemSolver
 
 ![Vladyislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true#1)
 
@@ -45,3 +44,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#FrontEndDeveloper #FullStackDeveloper #DevOps #Linux #NodeJS #Golang #MobileDevelopment #SoftwareSecurity #CyberSecurity #WebDevelopment #ServiceOrientedArchitecture #ProblemSolver
