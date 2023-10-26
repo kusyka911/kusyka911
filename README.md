@@ -25,9 +25,6 @@
 - 📫 Reach me at [matrix](https://matrix.to/#/#kusyka911:matrix.org)
 - 🌐 Explore my projects and contributions on [GitHub].
 
-### 🌈 Join me on this coding journey, and let's build amazing digital experiences together!
-
-
 ![Vladyislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true#1)
 
 <!--
