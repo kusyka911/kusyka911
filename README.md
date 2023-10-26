@@ -1,27 +1,27 @@
-# 👋 Hi, I'm Vlad!
+## 👋 Hi, I'm Vlad!
 
-## 🚀 Front-end Developer with a Versatile Skill Set 🚀
+### 🚀 Front-end Developer with a Versatile Skill Set 🚀
 
-## 🌟 About Me:
+### 🌟 About Me:
 - 💻 Front-end development is my passion, and I excel at crafting delightful user experiences.
 - 🛠️ Experienced in Linux and DevOps practices, making me a well-rounded developer.
 - ☕ Proficient in Node.JS, golang, and mobile development.
 - 🔒 Strong knowledge of software security and cyber security.
 - 🌐 Well-versed in web technologies, delivering high-quality, responsive web applications.
 
-## 🔨 What I Do:
+### 🔨 What I Do:
 - 🖥️ Create stunning front-end interfaces using the latest technologies.
 - 🧰 Dive into DevOps and Linux for seamless deployment and infrastructure management.
 - 🧩 Design and develop back-end solutions to complement front-end experiences.
 - 📱 Craft mobile apps that enhance user engagement and convenience.
 - 🌍 Implement service-oriented architecture for scalable and robust applications.
 
-## 💡 My Approach:
+### 💡 My Approach:
 - 💪 Strong problem-solving skills to tackle complex challenges.
 - 📚 Continuous learner, always exploring new technologies and best practices.
 - 🤝 Collaborative team player, ready to bring your projects to life.
 
-## 🔗 Let's Connect:
+### 🔗 Let's Connect:
 - 📫 Reach me at [matrix](https://matrix.to/#/#kusyka911:matrix.org)
 - 🌐 Explore my projects and contributions on [GitHub].
 
