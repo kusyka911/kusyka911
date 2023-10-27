@@ -26,9 +26,19 @@
 - 🌐 Explore my projects and contributions on [GitHub](https://github.com/kusyka911/).
 
 
-[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/kusyka911/#gh-dark-mode-only)
-
-[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&theme=default&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/kusyka911/#gh-light-mode-only)
+<a href="https://github.com/kusyka911">
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=kusyka911&&show_icons=true&theme=github_dark&include_all_commits=true&show=reviews,prs_merged"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&include_all_commits=true&show=reviews,prs_merged"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img alt="Vlad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&include_all_commits=true&show=reviews,prs_merged" />
+    </picture>
+</a>
 
 <!--
 **kusyka911/kusyka911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
