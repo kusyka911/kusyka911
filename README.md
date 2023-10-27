@@ -29,14 +29,14 @@
 <a href="https://github.com/kusyka911">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=kusyka911&&show_icons=true&theme=github_dark&include_all_commits=true&show=reviews,prs_merged"
+            srcset="https://github-readme-stats.vercel.app/api?username=kusyka911&custom_title=Github+Stats&show_icons=true&theme=github_dark&include_all_commits=true&show=reviews,prs_merged"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&include_all_commits=true&show=reviews,prs_merged"
+            srcset="https://github-readme-stats.vercel.app/api?username=kusyka911&custom_title=Github+Stats&show_icons=true&include_all_commits=true&show=reviews,prs_merged"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img alt="Vlad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&include_all_commits=true&show=reviews,prs_merged" />
+        <img alt="Vlad's GitHub stats" src="https://github-readme-stats.vercel.username=kusyka911&custom_title=Vlad's Github+Stats&show_icons=true&include_all_commits=true&show=reviews,prs_merged" />
     </picture>
 </a>
 
