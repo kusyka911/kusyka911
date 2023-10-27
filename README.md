@@ -24,8 +24,7 @@
 ### 🔗 Let's Connect:
 - 📫 Reach me at [matrix](https://matrix.to/#/#kusyka911:matrix.org)
 - 🌐 Explore my projects and contributions on [GitHub].
-
-![Vladyislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true#2)
+[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusyka911&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#2)](https://github.com/kusyka911/)
 
 <!--
 **kusyka911/kusyka911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
